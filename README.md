@@ -65,7 +65,7 @@ O *Vida Saborosa* é um aplicativo desenvolvido para facilitar a entrega de comi
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seuusuario/vidasaborosa.git
+   git clone https://github.com/fernvndez/vidasaborosa.git
 
 	2.	Navegue até o diretório do projeto:
 
