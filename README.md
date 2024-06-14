@@ -170,6 +170,6 @@ Contato
 
 Leonardo Fernandez - @fernvndezsb - leonardofernandezcontato@gmail.com
 
-Link do Projeto: https://github.com/fernvndez/vidasaborosa
+Link do Projeto: https://github.com/fernvndez/vidasaborosa-app
 
 Este README inclui todas as informações necessárias sobre o aplicativo, desde a descrição do projeto até as funcionalidades, melhores partes do código, como executar o projeto, e informações sobre contribuição e licença. Certifique-se de substituir seuusuario e seuemail@dominio.com com suas informações reais antes de publicar.
